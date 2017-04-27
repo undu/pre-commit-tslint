@@ -6,5 +6,5 @@
     files: \.ts$
 
     # Use additional_dependencies to install the actual node package
-    additional_dependencies: ['tslint@4.0.2', 'typescript']
+    additional_dependencies: ['tslint@4.5.1', 'typescript']
     minimum_pre_commit_version: 0.7.0
